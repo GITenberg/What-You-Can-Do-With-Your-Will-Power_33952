@@ -1,0 +1,29 @@
+_repo: What-You-Can-Do-With-Your-Will-Power_33952
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33952-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Conwell, Russell H.
+    alias: Conwell, Russell Herman
+    birthdate: 1843
+    deathdate: 1925
+    gutenberg_agent_id: '203'
+    url: http://www.gutenberg.org/2009/agents/203
+    wikipedia: http://en.wikipedia.org/wiki/Russell_Conwell
+description: ''
+gutenberg_issued: '2010-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33952'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Will'
+- !lcsh 'Success'
+title: What You Can Do With Your Will Power
+url: http://www.gutenberg.org/ebooks/33952
